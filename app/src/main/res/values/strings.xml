@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomProjectApp</string>
+    <string name="title">Casas de Comics</string>
+    <string name="superhero_name">nombre</string>
+    <string name="superhero_affiliation">afiliacion</string>
+    <string name="marvel">marvel</string>
+    <string name="dc">dc</string>
+    <string name="superhero_nameI">Superhero Name</string>
+    <string name="superhero_affiliationI">Superhero Affiliation</string>
+</resources>
